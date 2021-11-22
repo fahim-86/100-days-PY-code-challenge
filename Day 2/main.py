@@ -1,3 +1,5 @@
+# Separate the Input degit and make an addition between them
+
 two_digit_number = input("Type a two digit number: ")
 
 firstNum = two_digit_number[0]
