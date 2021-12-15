@@ -15,9 +15,9 @@
 # Subtraction "-"
 
 
-# equation for calculate BMI = weight(KG) / height^2
+# equation for calculate BMI = weight(KG) / height(Meter)^2
 height = input("enter your height in m: ")
 weight = input("enter your weight in kg: ")
-# print(float(height)**2)
+
 BMI = int(weight) / float(height)**2
 print(int(BMI))
