@@ -1,1 +1,7 @@
-print("Day 4 (Four)")
+# Is the number Odd or Even
+'''number = int(input("Which number do you want to check? "))
+
+if number % 2 != 0:
+    print("This is an odd number.")
+elif number % 2 == 0:
+    print("This is an even number.")'''
